@@ -52,6 +52,11 @@ class Todo(Model):
         t.save()
         return t
 
+    def formattime(self):
+        t = self.ct
+        p = '%Y-%m-%d %H:%M:%S'
+        return time.strftime(p, time.localtime(t))
+
     def __init__(self, form):
         self.id = None
         self.title = form.get('title', '')
