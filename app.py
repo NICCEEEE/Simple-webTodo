@@ -33,6 +33,12 @@ def index():
     return '<a href="/todo">Hello World</a>'
 
 
+@app.route('/favicon.ico')
+def favico():
+    with open('favicon.ico', 'rb') as f:
+        return b''.join(f.readlines())
+
+
 # 运行代码
 if __name__ == '__main__':
     # debug 模式可以自动加载你对代码的变动, 所以不用重启程序
