@@ -12,6 +12,7 @@ from flask import (
 )
 
 from routes.todo import main as todo_routes
+from routes.project import main as project_routes
 
 app = Flask(__name__)
 # 设置 secret_key 来使用 flask 自带的 session
@@ -26,6 +27,7 @@ app.secret_key = 'random string'
 # 注册蓝图
 # 有一个 url_prefix 可以用来给蓝图中的每个路由加一个前缀
 app.register_blueprint(todo_routes, url_prefix='/todo')
+app.register_blueprint(project_routes, url_prefix='/project')
 
 
 @app.route('/')
