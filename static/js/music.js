@@ -282,4 +282,4 @@ var main = function() {
 }
 
 main()
-console.log('12345');
+console.log('00000000');
