@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>My Music Player</title>
+  <link rel="stylesheet" href="music.css">
+</head>
+
+<body>
+  <div class="main">
+    <header>
+      <ul class="pages">
+        <li class="first" data-li=1>Music.</li>
+        <li data-li=2>Live</li>
+        <li class="visited active"data-li=3>Music</li>
+        <li data-li=4>Charts</li>
+        <li data-li=5>Events</li>
+        <li class="search" data-li=6>
+          <input class="search song" type="text" placeholder="请输入要查找的音乐">
+          <img src="放大镜.png" alt="Search">
+          <span>About</span>
+        </li>
+      </ul>
+      <ul class="dots">
+        <li data-dot=2></li>
+        <li class="visited active" data-dot=3></li>
+        <li data-dot=4 id="d3"></li>
+        <li data-dot=5></li>
+      </ul>
+    </header>
+    <aside class="side">
+      <img src="f2.jpeg" alt=""><br>
+      <img src="t1.jpeg" alt=""><br>
+      <img src="t2.jpeg" alt="">
+    </aside>
+    <section class="current">
+      <div class="back">
+        <span class="title">4 Tracks</span>
+        <span class="playall">► Play All</span>
+        <div class="picture">
+          <img src="0.jpg" alt="">
+        </div>
+        <span class="prev">< Prev</span>
+        <span class="next">Next ></span>
+      </div>
+    </section>
+    <section class="songlist">
+      <div class="cell">
+        <div class="songsinfo">
+          <span class="singner">Music & Player</span><br>
+          <span class="name">Listen to Life</span>
+        </div>
+        <div class="songs">
+          <div class="songcell" id="lonely" data-song=0>
+            <div class="play">
+              <span>►</span>
+            </div>
+            <div class="songsname" data-singner='Vexento'>
+              Lonely Dance
+            </div>
+            <time>3:27</time>
+            <div class="like">
+              ♥
+            </div>
+          </div>
+          <div class="songcell" id="boy" data-song=1>
+            <div class="play">
+              <span>►</span>
+            </div>
+            <div class="songsname" data-singner='卖血哥(cover:梁博)'>
+              男孩
+            </div>
+            <time>5:12</time>
+            <div class="like">
+              ♥
+            </div>
+          </div>
+          <div class="songcell" id="road" data-song=2>
+            <div class="play">
+              <span>►</span>
+            </div>
+            <div class="songsname" data-singner='打扰一下乐团'>
+              平凡之路
+            </div>
+            <time>3:57</time>
+            <div class="like">
+              ♥
+            </div>
+          </div>
+        </div>
+        <div class="special">
+          <span>Recommend Song</span>
+        </div>
+        <div class="recommend">
+          <div class="songcell" id="wind" data-song=3>
+            <div class="play">
+              <span>►</span>
+            </div>
+            <div class="songsname" data-singner='买辣椒也用卷（cover：高桥优）'>
+              起风了
+            </div>
+            <time>5:23</time>
+            <div class="like love">
+              ♥
+            </div>
+          </div>
+        </div>
+
+        <div class="player">
+          <audio controls>
+          </audio>
+        </div>
+      </div>
+    </section>
+    <section class="other">
+      <div class="another">
+        <div class="picture">
+          <img src="1.jpg" alt="">
+        </div>
+      </div>
+    </section>
+    <script src="myframework.js"></script>
+    <script src="music.js"></script>
+  </div>
+</body>
+
+</html>
