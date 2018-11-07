@@ -68,12 +68,18 @@ var playStatus = function(play, songid) {
   if (span.innerHTML === '►') {
     span.innerHTML = '| |'
     var s = a.src.split('/')
+    console.log('src:', s[s.length - 1]);
     if (a.currentTime > 0 && s[s.length - 1] === songid + '.mp3') {
+      console.log('continue');
       a.play()
       play.classList.remove('pause')
       toggleStatus(play, 'active')
+    } else if (a.currentTime > 0) {
+      a.src = '/static/musicplayer/' + songid + '.mp3'
+      a.play()
+      toggleStatus(play, 'active')
     } else {
-      a.src = songid + '.mp3'
+      a.src = '/static/musicplayer/' + songid + '.mp3'
       a.play()
       toggleStatus(play, 'active')
     }
@@ -116,10 +122,11 @@ var changePlayImg = function(songid) {
   var backimg = back.querySelector('img')
   var another = document.querySelector('.another')
   var anotherimg = another.querySelector('img')
-  backimg.setAttribute('src', songid + '.jpg')
-  imgid = backimg.getAttribute('src').split('.')[0]
+  backimg.setAttribute('src', '/static/musicplayer/' + songid + '.jpg')
+  var path = backimg.getAttribute('src').split('.')[0]
+  var imgid = path[path.length - 1]
   nextid = (parseInt(imgid) + 1) % 4
-  anotherimg.setAttribute('src', nextid + '.jpg')
+  anotherimg.setAttribute('src', '/static/musicplayer/' + nextid + '.jpg')
 }
 
 // 播放按钮
@@ -135,7 +142,7 @@ var bindSinglePlay = function(p) {
   })
 }
 
-bindAllPlay = function() {
+var bindAllPlay = function() {
   var plays = document.querySelectorAll('.play')
   for (var i = 0; i < plays.length; i++) {
     bindSinglePlay(plays[i])
@@ -233,8 +240,9 @@ var PlayAll = function() {
     var playEndedHandler = function() {
       var s = Songs.pop()
       a.src = s
-      var id = s.split('.')[0]
-      a.play()
+      var path = s.split('.')[0]
+      var id = path[path.length - 1]
+      console.log('id-end', id);
       changePlayImg(id)
       findPlay(id)
       if (Songs.length === 0) {
@@ -244,17 +252,19 @@ var PlayAll = function() {
     }
     clearCurrentPlay()
     var s = Songs.pop()
+    console.log('s-start', s);
     a.src = s
-    var id = s.split('.')[0]
+    var path = s.split('.')[0]
+    var id = path[path.length - 1]
+    console.log('id-start', id);
     a.addEventListener('ended', playEndedHandler)
-    a.play()
     changePlayImg(id)
     findPlay(id)
   })
 }
 
 // 找到并更新play
-var findPlay = function(id){
+var findPlay = function(id) {
   var plays = document.querySelectorAll('.play')
   for (var i = 0; i < plays.length; i++) {
     if (plays[i].closest('.songcell').dataset.song === id) {
@@ -266,10 +276,10 @@ var findPlay = function(id){
 
 a = document.querySelector('audio')
 songs = [
-  '0.mp3',
-  '1.mp3',
-  '2.mp3',
-  '3.mp3',
+  '/static/musicplayer/0.mp3',
+  '/static/musicplayer/1.mp3',
+  '/static/musicplayer/2.mp3',
+  '/static/musicplayer/3.mp3',
 ]
 var main = function() {
   bindAllHeader()
@@ -282,4 +292,4 @@ var main = function() {
 }
 
 main()
-console.log('00000000');
+console.log('music.js 引入成功');
