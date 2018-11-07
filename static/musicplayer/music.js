@@ -57,7 +57,6 @@ var bindLike = function(l) {
 
 var bindAllLike = function() {
   var likes = document.querySelectorAll('.like')
-  console.log(likes);
   for (var i = 0; i < likes.length; i++) {
     bindLike(likes[i])
   }
@@ -283,3 +282,4 @@ var main = function() {
 }
 
 main()
+console.log('12345');
