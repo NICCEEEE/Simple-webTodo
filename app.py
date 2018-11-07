@@ -13,6 +13,7 @@ from flask import (
 
 from routes.todo import main as todo_routes
 from routes.project import main as project_routes
+from datetime import timedelta
 
 app = Flask(__name__)
 # 设置 secret_key 来使用 flask 自带的 session
@@ -50,4 +51,5 @@ if __name__ == '__main__':
         host='0.0.0.0',
         port=2000,
     )
+    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = timedelta(seconds=1)
     app.run(**config)

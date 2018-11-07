@@ -282,4 +282,4 @@ var main = function() {
 }
 
 main()
-console.log('00000000');
+console.log('000001111000');
