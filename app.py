@@ -27,7 +27,7 @@ app.secret_key = 'random string'
 # 注册蓝图
 # 有一个 url_prefix 可以用来给蓝图中的每个路由加一个前缀
 app.register_blueprint(todo_routes, url_prefix='/todo')
-app.register_blueprint(project_routes, url_prefix='/project')
+app.register_blueprint(project_routes)
 
 
 @app.route('/')
@@ -48,6 +48,6 @@ if __name__ == '__main__':
     config = dict(
         debug=True,
         host='0.0.0.0',
-        port=80,
+        port=2000,
     )
     app.run(**config)
