@@ -1,0 +1,286 @@
+[
+  {
+    "directors": [
+      "丹尼尔·阿尔弗雷森"
+    ],
+    "rate": "5.9",
+    "title": "惊天绑架团",
+    "casts": [
+      "安东尼·霍普金斯",
+      "萨姆·沃辛顿",
+      "吉姆·斯特吉斯",
+      "瑞恩·柯万腾",
+      "杰迈玛·韦斯特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373853178.jpg"
+  },
+  {
+    "directors": [
+      "斯图尔特·哈泽尔丁"
+    ],
+    "rate": "5.9",
+    "title": "陋室",
+    "casts": [
+      "萨姆·沃辛顿",
+      "奥克塔维亚·斯宾瑟",
+      "蒂姆·麦格罗",
+      "拉达·米切尔",
+      "梅根·查彭提尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357382568.jpg"
+  },
+  {
+    "directors": [
+      "杨恒"
+    ],
+    "rate": "5.9",
+    "title": "光斑",
+    "casts": [
+      "田力",
+      "陈怡伶",
+      "梁宇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459065873.jpg"
+  },
+  {
+    "directors": [
+      "卓立"
+    ],
+    "rate": "5.8",
+    "title": "猎艳",
+    "casts": [
+      "张钧宁",
+      "朱芷莹",
+      "温升豪",
+      "周姮吟",
+      "杨雅慧"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1271891778.jpg"
+  },
+  {
+    "directors": [
+      "李云波"
+    ],
+    "rate": "5.8",
+    "title": "呼吸正常",
+    "casts": [
+      "张兴超",
+      "叶锐洪",
+      "李会",
+      "周嘉亨",
+      "黄馨"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399021200.jpg"
+  },
+  {
+    "directors": [
+      "Karen Moncrieff"
+    ],
+    "rate": "5.8",
+    "title": "风中的花瓣",
+    "casts": [
+      "海瑟·格拉汉姆",
+      "艾伦·伯斯汀",
+      "罗丝·麦克莱弗",
+      "惠特尼·霍伊",
+      "迪兰·布鲁斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2185027346.jpg"
+  },
+  {
+    "directors": [
+      "金志焕"
+    ],
+    "rate": "5.7",
+    "title": "传说中的故乡",
+    "casts": [
+      "朴信惠",
+      "在熙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p999572383.jpg"
+  },
+  {
+    "directors": [
+      "李尚宇"
+    ],
+    "rate": "5.7",
+    "title": "我的妻子的姐姐",
+    "casts": [
+      "李采潭"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404682517.jpg"
+  },
+  {
+    "directors": [
+      "苏珊娜·比尔"
+    ],
+    "rate": "5.6",
+    "title": "赛琳娜",
+    "casts": [
+      "詹妮弗·劳伦斯",
+      "布莱德利·库珀",
+      "托比·琼斯",
+      "瑞斯·伊凡斯",
+      "萨姆·里德"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2199665827.jpg"
+  },
+  {
+    "directors": [
+      "史蒂芬·艾略特"
+    ],
+    "rate": "5.6",
+    "title": "樱桃",
+    "casts": [
+      "詹姆斯·弗兰科",
+      "阿什丽·欣肖",
+      "海瑟·格拉汉姆",
+      "戴夫·帕特尔",
+      "莉莉·泰勒"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1836470947.jpg"
+  },
+  {
+    "directors": [
+      "法鲁克.阿克苏伊"
+    ],
+    "rate": "5.7",
+    "title": "征服1453",
+    "casts": [
+      "黛乌霖.埃文",
+      "易卜拉欣·切雷克库尔",
+      "迪莱卡.赛尔拜斯德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1705144285.jpg"
+  },
+  {
+    "directors": [
+      "亚历杭德罗·阿梅纳瓦尔"
+    ],
+    "rate": "5.5",
+    "title": "回溯迷踪",
+    "casts": [
+      "伊桑·霍克",
+      "艾玛·沃森",
+      "大卫·休里斯",
+      "戴文·博斯蒂克",
+      "戴尔·迪奇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2271641463.jpg"
+  },
+  {
+    "directors": [
+      "李远"
+    ],
+    "rate": "5.5",
+    "title": "六人晚餐",
+    "casts": [
+      "窦骁",
+      "张钧甯",
+      "邬君梅",
+      "吴刚",
+      "赵立新"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2463001905.jpg"
+  },
+  {
+    "directors": [
+      "凯文·史密斯"
+    ],
+    "rate": "5.5",
+    "title": "长牙",
+    "casts": [
+      "迈克尔·帕克斯",
+      "贾斯汀·朗",
+      "珍尼希斯·罗德里格兹",
+      "詹妮弗·斯沃巴奇·史密斯",
+      "海利·乔·奥斯蒙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190600940.jpg"
+  },
+  {
+    "directors": [
+      "艾瑞克·D·豪威尔"
+    ],
+    "rate": "5.3",
+    "title": "墙里的声音",
+    "casts": [
+      "艾米莉亚·克拉克",
+      "马尔顿·索克斯",
+      "卡特琳娜·莫里诺",
+      "凯特·林德尔",
+      "丽莎·佳丝托妮"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2218476459.jpg"
+  },
+  {
+    "directors": [
+      "高峰"
+    ],
+    "rate": "5.3",
+    "title": "老腔",
+    "casts": [
+      "李彧",
+      "李梦",
+      "任山",
+      "尚铁龙"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2403047224.jpg"
+  },
+  {
+    "directors": [
+      "大卫·柯南伯格"
+    ],
+    "rate": "5.2",
+    "title": "大都会",
+    "casts": [
+      "罗伯特·帕丁森",
+      "杰伊·巴鲁切尔",
+      "保罗·吉亚玛提",
+      "莎拉·加顿",
+      "萨曼莎·莫顿"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1474958726.jpg"
+  },
+  {
+    "directors": [
+      "安里麻里"
+    ],
+    "rate": "5.0",
+    "title": "冰果 真人版",
+    "casts": [
+      "山崎贤人",
+      "广濑爱丽丝",
+      "小岛藤子",
+      "冈山天音",
+      "本乡奏多"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498517717.jpg"
+  },
+  {
+    "directors": [
+      "张瑜"
+    ],
+    "rate": "4.8",
+    "title": "庐山恋2010",
+    "casts": [
+      "秦岚",
+      "李晨",
+      "方中信",
+      "张瑜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1325483962.jpg"
+  },
+  {
+    "directors": [
+      "吉田浩太"
+    ],
+    "rate": "4.8",
+    "title": "明明不喜欢",
+    "casts": [
+      "根岸拓哉",
+      "川村亮介"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2405690412.jpg"
+  }
+]

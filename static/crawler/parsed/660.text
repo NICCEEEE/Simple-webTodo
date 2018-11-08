@@ -1,0 +1,293 @@
+[
+  {
+    "directors": [
+      "萧雅全"
+    ],
+    "rate": "7.6",
+    "title": "第36个故事",
+    "casts": [
+      "桂纶镁",
+      "林辰唏",
+      "张翰",
+      "马玉",
+      "中孝介"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p918663787.jpg"
+  },
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "7.0",
+    "title": "间谍同盟",
+    "casts": [
+      "布拉德·皮特",
+      "玛丽昂·歌迪亚",
+      "马修·古迪",
+      "丽兹·卡潘",
+      "夏洛特·霍普"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2402069220.jpg"
+  },
+  {
+    "directors": [
+      "大卫·O·拉塞尔"
+    ],
+    "rate": "6.7",
+    "title": "美国骗局",
+    "casts": [
+      "克里斯蒂安·贝尔",
+      "布莱德利·库珀",
+      "艾米·亚当斯",
+      "杰瑞米·雷纳",
+      "詹妮弗·劳伦斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2188108927.jpg"
+  },
+  {
+    "directors": [
+      "荻上直子"
+    ],
+    "rate": "8.4",
+    "title": "人生密密缝",
+    "casts": [
+      "生田斗真",
+      "桐谷健太",
+      "柿原玲佳",
+      "米姆拉",
+      "小池荣子"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2385400300.jpg"
+  },
+  {
+    "directors": [
+      "史蒂芬·戴德利"
+    ],
+    "rate": "8.8",
+    "title": "跳出我天地",
+    "casts": [
+      "杰米·贝尔",
+      "朱丽·沃特斯",
+      "琼·海伍德",
+      "杰米·德拉文"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p531278288.jpg"
+  },
+  {
+    "directors": [
+      "张杨"
+    ],
+    "rate": "7.8",
+    "title": "飞越老人院",
+    "casts": [
+      "许还山",
+      "吴天明",
+      "李滨",
+      "颜丙燕",
+      "田华"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1501564793.jpg"
+  },
+  {
+    "directors": [
+      "李骏"
+    ],
+    "rate": "7.0",
+    "title": "惊天大逆转",
+    "casts": [
+      "钟汉良",
+      "李政宰",
+      "郎月婷",
+      "李彩英"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363070684.jpg"
+  },
+  {
+    "directors": [
+      "山本泰一郎"
+    ],
+    "rate": "6.7",
+    "title": "名侦探柯南：绀碧之棺",
+    "casts": [
+      "高山南",
+      "山崎和佳奈",
+      "神谷明",
+      "松井菜樱子",
+      "茶风林"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528437799.jpg"
+  },
+  {
+    "directors": [
+      "李海准"
+    ],
+    "rate": "8.3",
+    "title": "金氏漂流记",
+    "casts": [
+      "郑在咏",
+      "郑丽媛"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p577422208.jpg"
+  },
+  {
+    "directors": [
+      "彼得·博格"
+    ],
+    "rate": "8.0",
+    "title": "孤独的幸存者",
+    "casts": [
+      "马克·沃尔伯格",
+      "泰勒·克奇",
+      "埃米尔·赫斯基",
+      "本·福斯特",
+      "艾瑞克·巴纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2170861821.jpg"
+  },
+  {
+    "directors": [
+      "罗伯特·泽米吉斯"
+    ],
+    "rate": "7.6",
+    "title": "云中行走",
+    "casts": [
+      "约瑟夫·高登-莱维特",
+      "本·金斯利",
+      "夏洛特·勒·邦",
+      "詹姆斯·戴尔",
+      "克莱门特·史鲍尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309200993.jpg"
+  },
+  {
+    "directors": [
+      "钮承泽"
+    ],
+    "rate": "7.3",
+    "title": "军中乐园",
+    "casts": [
+      "阮经天",
+      "万茜",
+      "陈意涵",
+      "陈建斌",
+      "王柏杰"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2244406291.jpg"
+  },
+  {
+    "directors": [
+      "胡里奥·密谭"
+    ],
+    "rate": "7.3",
+    "title": "罗马的房子",
+    "casts": [
+      "埃伦娜·安纳亚",
+      "娜塔莎·亚罗温科"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p640322980.jpg"
+  },
+  {
+    "directors": [
+      "罗曼·波兰斯基"
+    ],
+    "rate": "7.9",
+    "title": "雾都孤儿",
+    "casts": [
+      "巴内·克拉克",
+      "本·金斯利",
+      "艾伦·阿姆斯特朗",
+      "哈利·艾登"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p853427696.jpg"
+  },
+  {
+    "directors": [
+      "詹姆斯·弗兰科"
+    ],
+    "rate": "7.6",
+    "title": "灾难艺术家",
+    "casts": [
+      "詹姆斯·弗兰科",
+      "戴夫·弗兰科",
+      "塞斯·罗根",
+      "艾莉·葛瑞那",
+      "爱丽森·布里"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498866082.jpg"
+  },
+  {
+    "directors": [
+      "崔东勋"
+    ],
+    "rate": "7.5",
+    "title": "老千",
+    "casts": [
+      "曹承佑",
+      "金惠秀",
+      "白润植",
+      "柳海真",
+      "李水京"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2186555532.jpg"
+  },
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "5.3",
+    "title": "倩女幽魂",
+    "casts": [
+      "刘亦菲",
+      "古天乐",
+      "余少群",
+      "惠英红",
+      "樊少皇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p936102091.jpg"
+  },
+  {
+    "directors": [
+      "李仁港"
+    ],
+    "rate": "5.2",
+    "title": "三国之见龙卸甲",
+    "casts": [
+      "刘德华",
+      "洪金宝",
+      "李美琪",
+      "吴建豪",
+      "濮存昕"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1439901129.jpg"
+  },
+  {
+    "directors": [
+      "让-皮埃尔·热内"
+    ],
+    "rate": "8.5",
+    "title": "少年斯派维的奇异旅行",
+    "casts": [
+      "凯尔·凯特莱特",
+      "海伦娜·伯翰·卡特",
+      "朱迪·戴维斯",
+      "考乐姆·吉斯·雷尼",
+      "妮娅姆·威尔逊"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1977727734.jpg"
+  },
+  {
+    "directors": [
+      "亚历杭德罗·戈麦斯·蒙特维尔德"
+    ],
+    "rate": "8.2",
+    "title": "小男孩",
+    "casts": [
+      "雅各布·萨尔瓦提",
+      "凯文·詹姆斯",
+      "迈克尔·拉帕波特",
+      "大卫·亨瑞",
+      "艾米丽·沃森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2230105606.jpg"
+  }
+]

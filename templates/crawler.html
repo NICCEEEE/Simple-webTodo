@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>ECharts</title>
+  <link rel="stylesheet" href="/static/crawler/static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/crawler/static/css/left.css">
+  <link rel="stylesheet" href="/static/crawler/static/css/right.css">
+  <!-- 引入 echarts.js -->
+  <script src="https://cdn.bootcss.com/echarts/4.2.0-rc.1/echarts.min.js"></script>
+</head>
+
+<body>
+  <div class="left-col">
+    <div class="left-img">
+      <img src="/static/crawler/cinema2.png" alt="error">
+      <img src="/static/crawler/cinema3.png" alt="">
+    </div>
+    <ul>
+      <li class="HOME active"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> 推荐观看的电影</li>
+      <li class="First"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span> 近年电影评分占比</li>
+      <li class="Second"><span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span> 哪位导演的电影值得看？</li>
+      <li class="Third"><span class="glyphicon glyphicon-film" aria-hidden="true"></span> 哪位演员参演的电影评分高？</li>
+    </ul>
+  </div>
+  <div class="right-content">
+    <div class="INFO">
+      <nav>
+        <div class="left">
+          Admin / DashBoard
+        </div>
+        <div class="right">
+          <span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> Welcome !!!
+        </div>
+      </nav>
+      <header>
+        <div id="id-div-all-movie">
+          <span class="info">9976部</span><br><span class="describe">电影总量</span>
+        </div>
+        <div id='id-div-valid-movie'>
+          <span class="info">8291部</span><br><span class="describe">有效电影总量</span>
+        </div>
+        <div id="id-div-type">
+          <span class="info">剧情类</span><br><span class="describe">电影类型</span>
+        </div>
+        <div id="id-div-year">
+          <span class="info">2000-2017</span><br><span class="describe">年份区间</span>
+        </div>
+      </header>
+    </div>
+    <div class="HOME">
+      <div class="container">
+        <div class="row">
+          <div data-p1='img1' class="col-xs-6 col-md-3 photo">
+            <img src="/static/crawler/img/上帝之城.jpg" width="280px" height="400px" alt="...">
+            <br><span>上帝之城</span>
+          </div>
+          <div data-p1='img2' class="col-xs-6 col-md-3 photo">
+            <img src="/static/crawler/img/东京教父.jpg" width="280px" height="400px" alt="...">
+            <br><span>东京教父</span>
+          </div>
+          <div data-p1='img3' class="col-xs-6 col-md-3 photo">
+            <img src="/static/crawler/img/二手狮王.jpg" width="280px" height="400px" alt="...">
+            <br><span>二手狮王</span>
+          </div>
+        </div>
+        <div class="button">
+          <button id="analysis" type="button" class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 查看统计
+          </button>
+          <button id='change' class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 换一批
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="First hide">
+      <div id="Analysis_One">
+
+      </div>
+    </div>
+    <div class="Second hide">
+      <div class="searchTo">
+        <div class="input-group">
+          <span class="input-group-addon" id="sizing-addon2"><span class="glyphicon glyphicon-search"></span> </span>
+          <input type="text" class="form-control" placeholder="找一找你心中的最佳导演..." name='search'>
+        </div>
+        <ul class="list-group">
+          <li class="list-group-item active">克里斯托弗·诺兰</li>
+          <li class="list-group-item">刘伟强</li>
+          <li class="list-group-item">李安</li>
+          <li class="list-group-item">雷德利·斯科特</li>
+          <li class="list-group-item">史蒂文·斯皮尔伯格</li>
+          <li class="list-group-item">大卫·芬奇</li>
+          <li class="list-group-item">汤姆·霍珀</li>
+          <li class="list-group-item">大森贵弘</li>
+          <li class="list-group-item">朗·霍华德</li>
+          <li class="list-group-item">是枝裕和</li>
+          <li class="list-group-item">丹尼·博伊尔</li>
+          <li class="list-group-item">森淳一</li>
+          <li class="list-group-item">理查德·林克莱特</li>
+          <li class="list-group-item">克林特·伊斯特伍德</li>
+          <li class="list-group-item">史蒂芬·戴德利</li>
+          <li class="list-group-item">亚利桑德罗·冈萨雷斯·伊纳里图</li>
+          <li class="list-group-item">法提赫·阿金</li>
+          <li class="list-group-item">山田洋次</li>
+          <li class="list-group-item">堤幸彦</li>
+          <li class="list-group-item">尼古拉斯·希特纳</li>
+          <li class="list-group-item">水岛努</li>
+          <li class="list-group-item">石原立也</li>
+          <li class="list-group-item">安德鲁·格里弗</li>
+          <li class="list-group-item">比尔·安德森</li>
+        </ul>
+      </div>
+
+      <div id='Analysis_Two'>
+
+      </div>
+    </div>
+    <div class="Third hide">
+      <div id='Analysis_Three1'>
+
+      </div>
+      <div id='Analysis_Three2'>
+
+      </div>
+    </div>
+    <div class="Fourth hide">
+
+    </div>
+  </div>
+  <!-- 1、电影品质饼图 -->
+  <!-- 2、每位好/菜导演的作品评分折线图 -->
+  <!-- 3、每位好/菜演员高/低分作品数量柱状图 -->
+  <!-- 4、推荐观看 -->
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <!-- <div id="main" style="width: 600px;height:400px;"></div> -->
+  <!-- <script src="演员高分作品量.js" charset="utf-8"></script> -->
+  <!-- <script src="导演作品评分折线.js" charset="utf-8"></script> -->
+  <script src="/static/crawler/static/js/好的导演.js" charset="utf-8"></script>
+  <script src="/static/crawler/static/js/电影品质饼图.js" charset="utf-8"></script>
+  <script src="/static/crawler/static/js/演员高分作品量.js" charset="utf-8"></script>
+  <script src="/static/crawler/static/js/导演作品评分折线.js" charset="utf-8"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="/static/crawler/static/js/bootstrap.min.js"></script>
+  <script src="/static/crawler/static/js/left.js" charset="utf-8"></script>
+  <script src="/static/crawler/static/js/right.js" charset="utf-8"></script>
+
+</body>
+
+</html>

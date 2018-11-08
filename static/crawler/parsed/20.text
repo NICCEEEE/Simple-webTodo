@@ -1,0 +1,305 @@
+[
+  {
+    "directors": [
+      "曾国祥"
+    ],
+    "rate": "7.6",
+    "title": "七月与安生",
+    "casts": [
+      "周冬雨",
+      "马思纯",
+      "李程彬",
+      "李萍",
+      "蔡纲"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2378140502.jpg"
+  },
+  {
+    "directors": [
+      "雷德利·斯科特"
+    ],
+    "rate": "8.4",
+    "title": "火星救援",
+    "casts": [
+      "马特·达蒙",
+      "杰西卡·查斯坦",
+      "克里斯汀·韦格",
+      "杰夫·丹尼尔斯",
+      "迈克尔·佩纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2280097442.jpg"
+  },
+  {
+    "directors": [
+      "纳塔吾·彭皮里亚"
+    ],
+    "rate": "8.2",
+    "title": "天才枪手",
+    "casts": [
+      "茱蒂蒙·琼查容苏因",
+      "查侬·散顶腾古",
+      "依莎亚·贺苏汪",
+      "披纳若·苏潘平佑",
+      "塔内·瓦拉库努娄"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501863104.jpg"
+  },
+  {
+    "directors": [
+      "埃里克·布雷斯",
+      "J·麦基·格鲁伯"
+    ],
+    "rate": "8.7",
+    "title": "蝴蝶效应",
+    "casts": [
+      "阿什顿·库彻",
+      "梅罗拉·沃特斯",
+      "艾米·斯马特",
+      "埃尔登·汉森",
+      "威廉姆·李·斯科特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg"
+  },
+  {
+    "directors": [
+      "奥里奥尔·保罗"
+    ],
+    "rate": "8.7",
+    "title": "看不见的客人",
+    "casts": [
+      "马里奥·卡萨斯",
+      "阿娜·瓦格纳",
+      "何塞·科罗纳多",
+      "巴巴拉·莱涅",
+      "弗兰塞斯克·奥雷利亚"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg"
+  },
+  {
+    "directors": [
+      "周申",
+      "刘露"
+    ],
+    "rate": "8.3",
+    "title": "驴得水",
+    "casts": [
+      "任素汐",
+      "大力",
+      "刘帅良",
+      "裴魁山",
+      "阿如那"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg"
+  },
+  {
+    "directors": [
+      "宫崎骏"
+    ],
+    "rate": "9.3",
+    "title": "千与千寻",
+    "casts": [
+      "柊瑠美",
+      "入野自由",
+      "夏木真理",
+      "菅原文太",
+      "中村彰男"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg"
+  },
+  {
+    "directors": [
+      "罗伯·莱纳"
+    ],
+    "rate": "9.0",
+    "title": "怦然心动",
+    "casts": [
+      "玛德琳·卡罗尔",
+      "卡兰·麦克奥利菲",
+      "瑞贝卡·德·莫妮",
+      "安东尼·爱德华兹",
+      "约翰·马奥尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg"
+  },
+  {
+    "directors": [
+      "黄东赫"
+    ],
+    "rate": "9.2",
+    "title": "熔炉",
+    "casts": [
+      "孔侑",
+      "郑有美",
+      "金志映",
+      "金贤秀",
+      "郑仁絮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg"
+  },
+  {
+    "directors": [
+      "克里斯托弗·诺兰"
+    ],
+    "rate": "9.1",
+    "title": "蝙蝠侠：黑暗骑士",
+    "casts": [
+      "克里斯蒂安·贝尔",
+      "希斯·莱杰",
+      "艾伦·艾克哈特",
+      "迈克尔·凯恩",
+      "玛吉·吉伦哈尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg"
+  },
+  {
+    "directors": [
+      "克里斯托弗·诺兰"
+    ],
+    "rate": "8.4",
+    "title": "敦刻尔克",
+    "casts": [
+      "菲恩·怀特海德",
+      "汤姆·格林-卡尼",
+      "杰克·劳登",
+      "哈里·斯泰尔斯",
+      "阿奈林·巴纳德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494950714.jpg"
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "8.8",
+    "title": "猫鼠游戏",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "汤姆·汉克斯",
+      "克里斯托弗·沃肯",
+      "马丁·辛",
+      "艾米·亚当斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg"
+  },
+  {
+    "directors": [
+      "姜炯哲"
+    ],
+    "rate": "8.8",
+    "title": "阳光姐妹淘",
+    "casts": [
+      "沈恩京",
+      "闵孝琳",
+      "姜素拉",
+      "南宝拉",
+      "陈熙京"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg"
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "8.7",
+    "title": "禁闭岛",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "马克·鲁弗洛",
+      "本·金斯利",
+      "马克斯·冯·叙多夫",
+      "米歇尔·威廉姆斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg"
+  },
+  {
+    "directors": [
+      "大卫·芬奇"
+    ],
+    "rate": "8.7",
+    "title": "消失的爱人",
+    "casts": [
+      "本·阿弗莱克",
+      "裴淳华",
+      "尼尔·帕特里克·哈里斯",
+      "凯莉·库恩",
+      "泰勒·派瑞"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg"
+  },
+  {
+    "directors": [
+      "张艺谋"
+    ],
+    "rate": "8.0",
+    "title": "金陵十三钗",
+    "casts": [
+      "克里斯蒂安·贝尔",
+      "倪妮",
+      "张歆怡",
+      "黄天元",
+      "韩熙庭"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1322247572.jpg"
+  },
+  {
+    "directors": [
+      "奥利维埃·纳卡什",
+      "埃里克·托莱达诺"
+    ],
+    "rate": "9.2",
+    "title": "触不可及",
+    "casts": [
+      "弗朗索瓦·克鲁塞",
+      "奥玛·希",
+      "安娜·勒尼",
+      "奥德雷·弗勒罗",
+      "托马·索利韦尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg"
+  },
+  {
+    "directors": [
+      "滕华涛"
+    ],
+    "rate": "7.3",
+    "title": "失恋33天",
+    "casts": [
+      "白百何",
+      "文章",
+      "张嘉译",
+      "王耀庆",
+      "张子萱"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1252876266.jpg"
+  },
+  {
+    "directors": [
+      "路易斯·莱特里尔"
+    ],
+    "rate": "7.5",
+    "title": "惊天魔盗团",
+    "casts": [
+      "杰西·艾森伯格",
+      "艾拉·菲舍尔",
+      "伍迪·哈里森",
+      "戴夫·弗兰科",
+      "马克·鲁弗洛"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2151336415.jpg"
+  },
+  {
+    "directors": [
+      "马丁·麦克唐纳"
+    ],
+    "rate": "8.7",
+    "title": "三块广告牌",
+    "casts": [
+      "弗兰西斯·麦克多蒙德",
+      "伍迪·哈里森",
+      "山姆·洛克威尔",
+      "艾比·考尼什",
+      "卢卡斯·赫奇斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg"
+  }
+]

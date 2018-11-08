@@ -26,3 +26,7 @@ def music_web():
 def editor_web():
     return render_template('editor.html')
 
+
+@main.route('/crawler')
+def crawler():
+    return render_template('crawler.html')

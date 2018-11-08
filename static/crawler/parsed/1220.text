@@ -1,0 +1,309 @@
+[
+  {
+    "directors": [
+      "陈果"
+    ],
+    "rate": "6.6",
+    "title": "饺子",
+    "casts": [
+      "杨千嬅",
+      "白灵",
+      "梁家辉",
+      "杨爱瑾"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p934865027.jpg"
+  },
+  {
+    "directors": [
+      "金大胜"
+    ],
+    "rate": "5.5",
+    "title": "后宫：帝王之妾",
+    "casts": [
+      "金民俊",
+      "赵汝贞",
+      "金东旭",
+      "曹恩智",
+      "朴智英"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1643894657.jpg"
+  },
+  {
+    "directors": [
+      "霍拉蒂乌·马拉埃雷"
+    ],
+    "rate": "8.7",
+    "title": "无声婚礼",
+    "casts": [
+      "梅达·安德列亚·维克托",
+      "亚历山德鲁·波托切安",
+      "Valentin Teodosiu",
+      "亚历山德鲁·波托赛昂",
+      "Ioana Anastasia Anton"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2287838763.jpg"
+  },
+  {
+    "directors": [
+      "拉斯·冯·提尔"
+    ],
+    "rate": "8.3",
+    "title": "黑暗中的舞者",
+    "casts": [
+      "比约克",
+      "凯瑟琳·德纳芙",
+      "大卫·摩斯",
+      "彼得·斯特曼",
+      "乔尔·格雷"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910831341.jpg"
+  },
+  {
+    "directors": [
+      "朴银炯",
+      "吴达均"
+    ],
+    "rate": "8.3",
+    "title": "人狗奇缘",
+    "casts": [
+      "俞承豪",
+      "金香起",
+      "安吉江"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p547477150.jpg"
+  },
+  {
+    "directors": [
+      "克林特·伊斯特伍德"
+    ],
+    "rate": "8.2",
+    "title": "成事在人",
+    "casts": [
+      "摩根·弗里曼",
+      "马特·达蒙",
+      "托尼·戈罗奇",
+      "帕特里克·莫佛肯",
+      "马特·斯特恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1054037032.jpg"
+  },
+  {
+    "directors": [
+      "李娜静"
+    ],
+    "rate": "8.1",
+    "title": "雪路",
+    "casts": [
+      "金香起",
+      "金赛纶",
+      "张荣男",
+      "徐荣柱",
+      "金英玉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2422756815.jpg"
+  },
+  {
+    "directors": [
+      "大森立嗣"
+    ],
+    "rate": "8.0",
+    "title": "真幌站前多田便利屋",
+    "casts": [
+      "瑛太",
+      "松田龙平",
+      "片冈礼子",
+      "铃木杏",
+      "本上真奈美"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1126640909.jpg"
+  },
+  {
+    "directors": [
+      "林赞相"
+    ],
+    "rate": "8.0",
+    "title": "孝子洞理发师",
+    "casts": [
+      "宋康昊",
+      "文素丽",
+      "李在应",
+      "赵勇进",
+      "孙秉浩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2212569241.jpg"
+  },
+  {
+    "directors": [
+      "瑞恩·库格勒"
+    ],
+    "rate": "7.4",
+    "title": "奎迪",
+    "casts": [
+      "迈克尔·B·乔丹",
+      "西尔维斯特·史泰龙",
+      "泰莎·汤普森",
+      "菲利西亚·拉斯海德",
+      "安东尼·贝柳"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321788979.jpg"
+  },
+  {
+    "directors": [
+      "李雨禾"
+    ],
+    "rate": "6.8",
+    "title": "提着心吊着胆",
+    "casts": [
+      "陈玺旭",
+      "高叶",
+      "任素汐",
+      "董博",
+      "楼云飞"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456976809.jpg"
+  },
+  {
+    "directors": [
+      "加斯帕·诺"
+    ],
+    "rate": "6.6",
+    "title": "爱恋",
+    "casts": [
+      "卡尔·格洛斯曼",
+      "黛博拉·海薇",
+      "奥米·穆尤克",
+      "克拉拉·克里斯汀",
+      "贝努瓦·戴比"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2261493682.jpg"
+  },
+  {
+    "directors": [
+      "阿里尔·弗罗门"
+    ],
+    "rate": "6.4",
+    "title": "超脑48小时",
+    "casts": [
+      "凯文·科斯特纳",
+      "加里·奥德曼",
+      "汤米·李·琼斯",
+      "瑞恩·雷诺兹",
+      "盖尔·加朵"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2351313845.jpg"
+  },
+  {
+    "directors": [
+      "盖瑞·罗斯"
+    ],
+    "rate": "8.4",
+    "title": "奔腾年代",
+    "casts": [
+      "托比·马奎尔",
+      "杰夫·布里吉斯",
+      "克里斯·库珀",
+      "伊丽莎白·班克斯",
+      "威廉姆·H·梅西"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p845519371.jpg"
+  },
+  {
+    "directors": [
+      "约翰·马登"
+    ],
+    "rate": "8.0",
+    "title": "涉外大饭店",
+    "casts": [
+      "玛吉·史密斯",
+      "朱迪·丹奇",
+      "汤姆·威尔金森",
+      "比尔·奈伊",
+      "佩内洛普·威尔顿"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1339873949.jpg"
+  },
+  {
+    "directors": [
+      "施特凡·柏拉",
+      "马赛厄斯·马尔修"
+    ],
+    "rate": "8.0",
+    "title": "机械心",
+    "casts": [
+      "马赛厄斯·马尔修",
+      "奥利维娅·鲁兹",
+      "让·雷谢夫",
+      "萝西·德·帕尔马",
+      "玛丽·文森特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167571462.jpg"
+  },
+  {
+    "directors": [
+      "邓衍成",
+      "袁英明",
+      "武洪武"
+    ],
+    "rate": "7.7",
+    "title": "陆小凤传奇之陆小凤前传",
+    "casts": [
+      "张智霖",
+      "张智尧",
+      "杨丽菁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2414132191.jpg"
+  },
+  {
+    "directors": [
+      "法提赫·阿金",
+      "伊万·阿达勒",
+      "Randall Balsmeyer",
+      "艾伦·休斯",
+      "岩井俊二",
+      "姜文",
+      "谢卡尔·卡普尔",
+      "乔舒亚·马斯顿",
+      "米拉·奈尔",
+      "娜塔莉·波特曼",
+      "布莱特·拉特纳"
+    ],
+    "rate": "7.6",
+    "title": "纽约，我爱你",
+    "casts": [
+      "海登·克里斯滕森",
+      "娜塔莉·波特曼",
+      "奥兰多·布鲁姆",
+      "克里斯蒂娜·里奇",
+      "李美琪"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p485029127.jpg"
+  },
+  {
+    "directors": [
+      "全秀庆"
+    ],
+    "rate": "7.4",
+    "title": "哥",
+    "casts": [
+      "都暻秀",
+      "曹政奭",
+      "朴信惠"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393994340.jpg"
+  },
+  {
+    "directors": [
+      "永井聪"
+    ],
+    "rate": "7.2",
+    "title": "假如猫从世界上消失了",
+    "casts": [
+      "佐藤健",
+      "宫崎葵",
+      "滨田岳",
+      "奥野瑛太",
+      "石井杏奈"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2324946184.jpg"
+  }
+]

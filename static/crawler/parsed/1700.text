@@ -1,0 +1,292 @@
+[
+  {
+    "directors": [
+      "拉斯洛·奈迈施"
+    ],
+    "rate": "7.3",
+    "title": "索尔之子",
+    "casts": [
+      "盖佐·罗赫里格",
+      "列文特·莫尔纳",
+      "乌尔斯·瑞恩",
+      "托德·沙尔蒙",
+      "耶日·瓦尔恰克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2242875394.jpg"
+  },
+  {
+    "directors": [
+      "奥利维埃·纳卡什",
+      "埃里克·托莱达诺"
+    ],
+    "rate": "7.2",
+    "title": "无巧不成婚",
+    "casts": [
+      "让-皮埃尔·巴克里",
+      "让-保罗·卢弗",
+      "吉尔·勒卢什",
+      "樊尚·马凯涅",
+      "伊尔·哈达拉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515609231.jpg"
+  },
+  {
+    "directors": [
+      "蕾欧诺·瑟哈伊"
+    ],
+    "rate": "7.0",
+    "title": "年轻女子",
+    "casts": [
+      "利蒂希亚·多施",
+      "索莱曼·塞·迪耶",
+      "格雷·蒙赛京",
+      "让-克里斯托夫·弗里",
+      "娜塔莉·理查德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503564701.jpg"
+  },
+  {
+    "directors": [
+      "丹尼斯·维伦纽瓦"
+    ],
+    "rate": "6.9",
+    "title": "宿敌",
+    "casts": [
+      "杰克·吉伦哈尔",
+      "梅拉尼·罗兰",
+      "莎拉·加顿",
+      "伊莎贝拉·罗西里尼"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2145705774.jpg"
+  },
+  {
+    "directors": [
+      "柯尔姆·麦卡锡"
+    ],
+    "rate": "6.9",
+    "title": "天赐之女",
+    "casts": [
+      "杰玛·阿特登",
+      "格伦·克洛斯",
+      "森尼娅·纳阿",
+      "多米尼克·蒂珀",
+      "帕迪·康斯戴恩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364765939.jpg"
+  },
+  {
+    "directors": [
+      "奥利弗·帕克"
+    ],
+    "rate": "6.8",
+    "title": "道林·格雷",
+    "casts": [
+      "本·巴恩斯",
+      "科林·费尔斯",
+      "丽贝卡·豪尔",
+      "蕾切儿·哈伍德",
+      "艾米莉娅·福克斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p769586059.jpg"
+  },
+  {
+    "directors": [
+      "安吉丽娜·朱莉"
+    ],
+    "rate": "6.8",
+    "title": "坚不可摧",
+    "casts": [
+      "杰克·奥康奈尔",
+      "多姆纳尔·格里森",
+      "加内特·赫德兰",
+      "杰·科特尼",
+      "石原贵雅"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2222056402.jpg"
+  },
+  {
+    "directors": [
+      "山下敦弘"
+    ],
+    "rate": "6.7",
+    "title": "跨越栅栏",
+    "casts": [
+      "小田切让",
+      "苍井优",
+      "松田翔太",
+      "满岛真之介",
+      "北村有起哉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399173215.jpg"
+  },
+  {
+    "directors": [
+      "许秦豪"
+    ],
+    "rate": "6.5",
+    "title": "外出",
+    "casts": [
+      "裴勇俊",
+      "孙艺珍",
+      "柳承秀"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1532672988.jpg"
+  },
+  {
+    "directors": [
+      "史蒂文·索德伯格"
+    ],
+    "rate": "6.5",
+    "title": "魔力麦克",
+    "casts": [
+      "查宁·塔图姆",
+      "马修·麦康纳",
+      "马特·波莫",
+      "亚历克斯·帕蒂弗",
+      "乔·曼根尼罗"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1572435248.jpg"
+  },
+  {
+    "directors": [
+      "朴赞郁"
+    ],
+    "rate": "6.5",
+    "title": "机器人之恋",
+    "casts": [
+      "郑智薰",
+      "林秀晶",
+      "吴达洙",
+      "金秉玉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455761680.jpg"
+  },
+  {
+    "directors": [
+      "安德泽·巴特科维卡"
+    ],
+    "rate": "6.3",
+    "title": "龙潭虎穴",
+    "casts": [
+      "李连杰",
+      "DMX",
+      "安东尼·安德森",
+      "胡凯莉",
+      "汤姆·阿诺德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1651430811.jpg"
+  },
+  {
+    "directors": [
+      "邱礼涛"
+    ],
+    "rate": "6.2",
+    "title": "叶问：终极一战",
+    "casts": [
+      "黄秋生",
+      "曾志伟",
+      "钟欣潼",
+      "陈小春",
+      "周定宇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1891558983.jpg"
+  },
+  {
+    "directors": [
+      "乔舒亚·迈克尔·斯坦"
+    ],
+    "rate": "6.0",
+    "title": "乔布斯",
+    "casts": [
+      "阿什顿·库彻",
+      "德蒙特·莫罗尼",
+      "乔什·加德",
+      "卢卡斯·哈斯",
+      "马修·莫迪恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2120484940.jpg"
+  },
+  {
+    "directors": [
+      "王光利",
+      "麦子善"
+    ],
+    "rate": "6.0",
+    "title": "卧虎",
+    "casts": [
+      "曾志伟",
+      "吴镇宇",
+      "陈小春",
+      "秦海璐",
+      "余文乐"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2160268714.jpg"
+  },
+  {
+    "directors": [
+      "Marianne Elliott"
+    ],
+    "rate": "8.9",
+    "title": "深夜小狗离奇事件",
+    "casts": [
+      "卢克·崔德威 Luke Treadaway",
+      "Niamh Cusack",
+      "Paul Ritter",
+      "妮可拉·沃克 Nicola Walker",
+      "Una Stubbs"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2091465967.jpg"
+  },
+  {
+    "directors": [
+      "米歇尔·欧斯洛"
+    ],
+    "rate": "8.6",
+    "title": "王子与公主",
+    "casts": [
+      "伊夫·巴萨克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1320850506.jpg"
+  },
+  {
+    "directors": [
+      "洼冈俊之"
+    ],
+    "rate": "8.6",
+    "title": "剑风传奇 黄金时代篇2：多尔多雷攻略",
+    "casts": [
+      "岩永洋昭",
+      "樱井孝宏",
+      "梶裕贵",
+      "寿美菜子",
+      "三宅健太"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1464669835.jpg"
+  },
+  {
+    "directors": [
+      "扬·特洛尔"
+    ],
+    "rate": "8.5",
+    "title": "永恒记忆",
+    "casts": [
+      "米卡埃尔·佩斯布兰特",
+      "阿曼达·奥慕斯",
+      "加斯帕·克里斯滕森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458917097.jpg"
+  },
+  {
+    "directors": [
+      "赤飞"
+    ],
+    "rate": "8.4",
+    "title": "童年的收音机",
+    "casts": [
+      "邢仕达",
+      "郑伟",
+      "王树清"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478332722.jpg"
+  }
+]

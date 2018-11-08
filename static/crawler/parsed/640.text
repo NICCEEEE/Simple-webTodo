@@ -1,0 +1,302 @@
+[
+  {
+    "directors": [
+      "弗朗西斯·李"
+    ],
+    "rate": "8.3",
+    "title": "上帝之国",
+    "casts": [
+      "乔什·奥康纳",
+      "亚力克·塞克雷亚努",
+      "杰玛·琼斯",
+      "哈利·莱斯特·史密斯",
+      "伊恩·哈特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510209986.jpg"
+  },
+  {
+    "directors": [
+      "阿方索·卡隆"
+    ],
+    "rate": "7.5",
+    "title": "人类之子",
+    "casts": [
+      "克里夫·欧文",
+      "朱丽安·摩尔",
+      "迈克尔·凯恩",
+      "克莱尔-霍普·阿什蒂",
+      "查理·汉纳姆"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1971393744.jpg"
+  },
+  {
+    "directors": [
+      "费奥多尔·邦达尔丘克"
+    ],
+    "rate": "4.8",
+    "title": "莫斯科陷落",
+    "casts": [
+      "伊琳娜·斯达申鲍姆",
+      "亚历山大·佩特罗夫",
+      "林奈·穆罕默托夫",
+      "欧列格·缅希科夫",
+      "谢尔盖·加尔马什"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2412059661.jpg"
+  },
+  {
+    "directors": [
+      "彭秀慧"
+    ],
+    "rate": "7.2",
+    "title": "29+1",
+    "casts": [
+      "周秀娜",
+      "郑欣宜",
+      "蔡瀚亿",
+      "杨尚斌",
+      "金燕玲"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458020487.jpg"
+  },
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "5.7",
+    "title": "龙虎门",
+    "casts": [
+      "甄子丹",
+      "谢霆锋",
+      "余文乐",
+      "董洁",
+      "李小冉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1520857276.jpg"
+  },
+  {
+    "directors": [
+      "彭三源"
+    ],
+    "rate": "6.5",
+    "title": "失孤",
+    "casts": [
+      "刘德华",
+      "井柏然",
+      "吴君如",
+      "梁家辉",
+      "倪景阳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2231791943.jpg"
+  },
+  {
+    "directors": [
+      "肯·卡皮斯"
+    ],
+    "rate": "7.6",
+    "title": "牛仔裤的夏天",
+    "casts": [
+      "爱波·塔布琳",
+      "阿丽克西斯·布莱德尔",
+      "亚美莉卡·费雷拉",
+      "布蕾克·莱弗利",
+      "珍娜·博伊德"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p885307493.jpg"
+  },
+  {
+    "directors": [
+      "大卫·马肯兹"
+    ],
+    "rate": "8.0",
+    "title": "赴汤蹈火",
+    "casts": [
+      "克里斯·派恩",
+      "本·福斯特",
+      "杰夫·布里吉斯",
+      "凯蒂·米克松",
+      "凯文·兰金"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2351955874.jpg"
+  },
+  {
+    "directors": [
+      "尼尔·布洛姆坎普"
+    ],
+    "rate": "6.2",
+    "title": "极乐空间",
+    "casts": [
+      "马特·达蒙",
+      "朱迪·福斯特",
+      "沙尔托·科普雷",
+      "艾莉丝·布拉加",
+      "迭戈·卢纳"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2091268902.jpg"
+  },
+  {
+    "directors": [
+      "尤里·贝科夫"
+    ],
+    "rate": "8.4",
+    "title": "危楼愚夫",
+    "casts": [
+      "阿尔焦姆·贝斯特罗夫",
+      "娜塔莉亚·苏尔科娃",
+      "尤里·楚里洛",
+      "鲍里斯·涅夫佐罗夫",
+      "基里尔·波卢欣"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2253299818.jpg"
+  },
+  {
+    "directors": [
+      "尼尔·马歇尔"
+    ],
+    "rate": "7.5",
+    "title": "黑暗侵袭",
+    "casts": [
+      "肖娜·麦克唐纳",
+      "娜塔莉·杰克逊·门多萨",
+      "阿里克斯·瑞德",
+      "萨斯基亚·马尔德",
+      "玛安娜·本灵"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2209603070.jpg"
+  },
+  {
+    "directors": [
+      "周子阳"
+    ],
+    "rate": "7.0",
+    "title": "老兽",
+    "casts": [
+      "涂们",
+      "王超北",
+      "伊丹纳",
+      "王铭硕",
+      "苏枫"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507370070.jpg"
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "7.2",
+    "title": "夺命金",
+    "casts": [
+      "刘青云",
+      "何韵诗",
+      "任贤齐",
+      "胡杏儿",
+      "卢海鹏"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1375774449.jpg"
+  },
+  {
+    "directors": [
+      "周全"
+    ],
+    "rate": "6.8",
+    "title": "西小河的夏天",
+    "casts": [
+      "张颂文",
+      "谭卓",
+      "顾宝明",
+      "董晴",
+      "荣梓杉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522331711.jpg"
+  },
+  {
+    "directors": [
+      "吴宇森"
+    ],
+    "rate": "5.8",
+    "title": "太平轮(上)",
+    "casts": [
+      "章子怡",
+      "金城武",
+      "宋慧乔",
+      "黄晓明",
+      "佟大为"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2212075889.jpg"
+  },
+  {
+    "directors": [
+      "潘安子"
+    ],
+    "rate": "4.9",
+    "title": "宫锁沉香",
+    "casts": [
+      "周冬雨",
+      "陈晓",
+      "朱梓骁",
+      "赵丽颖",
+      "包贝尔"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2068159718.jpg"
+  },
+  {
+    "directors": [
+      "柯克·琼斯"
+    ],
+    "rate": "8.6",
+    "title": "天伦之旅",
+    "casts": [
+      "罗伯特·德尼罗",
+      "凯特·贝金赛尔",
+      "山姆·洛克威尔",
+      "德鲁·巴里摩尔",
+      "凯瑟琳·莫宁"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1217133544.jpg"
+  },
+  {
+    "directors": [
+      "李胤基"
+    ],
+    "rate": "7.9",
+    "title": "男与女",
+    "casts": [
+      "孔侑",
+      "全度妍",
+      "李美素",
+      "朴秉恩",
+      "朴敏智"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2308184818.jpg"
+  },
+  {
+    "directors": [
+      "迈克尔·帕特里克·金"
+    ],
+    "rate": "7.7",
+    "title": "欲望都市",
+    "casts": [
+      "莎拉·杰茜卡·帕克",
+      "金·凯特罗尔",
+      "克里斯汀·戴维斯",
+      "辛西娅·尼克松",
+      "詹妮弗·哈德森"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237613927.jpg"
+  },
+  {
+    "directors": [
+      "弗洛里安·大卫·菲茨"
+    ],
+    "rate": "7.8",
+    "title": "最爽的一天",
+    "casts": [
+      "马提亚斯·施维赫夫",
+      "弗洛里安·大卫·菲茨",
+      "赖纳·博克",
+      "拉斯·多普勒",
+      "安德亚斯·杜伯斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2396328652.jpg"
+  }
+]

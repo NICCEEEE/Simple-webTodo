@@ -1,0 +1,283 @@
+[
+  {
+    "directors": [
+      "哈特姆·科莱切"
+    ],
+    "rate": "5.7",
+    "title": "轨道9",
+    "casts": [
+      "克拉拉·拉戈",
+      "贝伦·鲁埃达",
+      "亚历·冈萨雷斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457450881.jpg"
+  },
+  {
+    "directors": [
+      "深川荣洋"
+    ],
+    "rate": "5.7",
+    "title": "重启咲良田 前篇",
+    "casts": [
+      "野村周平",
+      "黑岛结菜",
+      "平祐奈",
+      "伊藤健太郎",
+      "玉城蒂娜"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2403747895.jpg"
+  },
+  {
+    "directors": [
+      "吉田秋生"
+    ],
+    "rate": "5.7",
+    "title": "实习期",
+    "casts": [
+      "新木优子",
+      "冈本杏理",
+      "佐野岳",
+      "青木玄德",
+      "栗原类"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459695263.jpg"
+  },
+  {
+    "directors": [
+      "Óskar Thór Axelsson"
+    ],
+    "rate": "5.7",
+    "title": "我记得你",
+    "casts": [
+      "约翰内斯·豪克尔·约翰内森",
+      "Thor Kristjansson",
+      "Ágústa Eva Erlendsdóttir",
+      "Sara Dögg Ásgeirsdóttir",
+      "Þröstur Leó Gunnarsson"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460262060.jpg"
+  },
+  {
+    "directors": [
+      "Lam Lê"
+    ],
+    "rate": "5.8",
+    "title": "20夜1雨天 20 nuits et un jour de pluie",
+    "casts": [
+      "Natalia Wörner",
+      "Eric Nguyen",
+      "Monic Arijanto"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2359905686.jpg"
+  },
+  {
+    "directors": [
+      "克里欧·巴纳德"
+    ],
+    "rate": "5.7",
+    "title": "暗流",
+    "casts": [
+      "露丝·威尔森",
+      "马克·斯坦利",
+      "肖恩·宾",
+      "伊斯曼·葛雷德·迈尔斯",
+      "迪恩·安德鲁斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523972359.jpg"
+  },
+  {
+    "directors": [
+      "Stephen Lance"
+    ],
+    "rate": "5.7",
+    "title": "我的主人",
+    "casts": [
+      "哈里森·吉尔伯特森",
+      "艾曼纽·贝阿",
+      "瑞切尔·布莱克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2191364113.jpg"
+  },
+  {
+    "directors": [
+      "Victor Zarcoff"
+    ],
+    "rate": "5.7",
+    "title": "恶房东",
+    "casts": [
+      "肖恩·卡里甘"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457352846.jpg"
+  },
+  {
+    "directors": [
+      "保罗·索雷特"
+    ],
+    "rate": "5.6",
+    "title": "格蕾丝",
+    "casts": [
+      "乔丹·莱德",
+      "加布里埃尔·罗斯",
+      "舍治·哈德",
+      "萨曼莎·费里斯",
+      "马尔科姆·斯图尔特"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1679938539.jpg"
+  },
+  {
+    "directors": [
+      "张元"
+    ],
+    "rate": "5.6",
+    "title": "有种",
+    "casts": [
+      "段博文",
+      "李昕芸",
+      "韩雯雯",
+      "吕聿来",
+      "时诗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2155224562.jpg"
+  },
+  {
+    "directors": [
+      "罗伯特·路克蒂克"
+    ],
+    "rate": "5.6",
+    "title": "偏执",
+    "casts": [
+      "利亚姆·海姆斯沃斯",
+      "加里·奥德曼",
+      "艾梅柏·希尔德",
+      "哈里森·福特",
+      "艾伯丝·戴维兹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2005851788.jpg"
+  },
+  {
+    "directors": [
+      "钟少雄"
+    ],
+    "rate": "5.6",
+    "title": "变脸迷情",
+    "casts": [
+      "吴彦祖",
+      "黎姿",
+      "冯德伦",
+      "林雪",
+      "姜皓文"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506745304.jpg"
+  },
+  {
+    "directors": [
+      "中野裕之"
+    ],
+    "rate": "5.6",
+    "title": "多襄丸",
+    "casts": [
+      "小栗旬",
+      "田中圭",
+      "池内博之",
+      "须贺贵匡"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2204165166.jpg"
+  },
+  {
+    "directors": [
+      "张鑫"
+    ],
+    "rate": "5.6",
+    "title": "不肯去观音",
+    "casts": [
+      "聂远",
+      "李纯",
+      "中泉英雄",
+      "中野良子",
+      "斯琴高娃"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2035088245.jpg"
+  },
+  {
+    "directors": [
+      "彼得·比灵斯雷"
+    ],
+    "rate": "5.6",
+    "title": "期限人生",
+    "casts": [
+      "海莉·斯坦菲尔德",
+      "塔拉吉·P·汉森",
+      "乔恩·费儒",
+      "乔纳森·班克斯",
+      "文斯·沃恩"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2312249822.jpg"
+  },
+  {
+    "directors": [
+      "Sranya Noithai"
+    ],
+    "rate": "5.6",
+    "title": "她们的爱",
+    "casts": [
+      "彭帕克·西里古尔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1409641571.jpg"
+  },
+  {
+    "directors": [
+      "Eric Laneuville"
+    ],
+    "rate": "5.6",
+    "title": "客户名单",
+    "casts": [
+      "詹妮弗·洛芙·休伊特",
+      "斯碧尔·谢波德",
+      "桑娅·本妮特",
+      "泰迪·西尔斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1329059057.jpg"
+  },
+  {
+    "directors": [
+      "安迪·戈达德"
+    ],
+    "rate": "5.6",
+    "title": "一种谋杀",
+    "casts": [
+      "帕特里克·威尔森",
+      "杰西卡·贝尔",
+      "海莉·贝内特",
+      "埃迪·马森",
+      "文森特·卡塞瑟"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2397751556.jpg"
+  },
+  {
+    "directors": [
+      "艾瑞克·斯坦泽"
+    ],
+    "rate": "5.6",
+    "title": "俘虏",
+    "casts": [
+      "Emily Haack",
+      "D.J. Vivona"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1733971945.jpg"
+  },
+  {
+    "directors": [
+      "前田哲"
+    ],
+    "rate": "5.6",
+    "title": "国王与我",
+    "casts": [
+      "菅田将晖",
+      "松坂桃李",
+      "相叶裕树",
+      "二阶堂富美",
+      "中河内雅贵"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1529108363.jpg"
+  }
+]

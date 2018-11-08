@@ -1,0 +1,305 @@
+[
+  {
+    "directors": [
+      "陈凯歌"
+    ],
+    "rate": "7.3",
+    "title": "搜索",
+    "casts": [
+      "高圆圆",
+      "姚晨",
+      "赵又廷",
+      "陈红",
+      "王学圻"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1598153958.jpg"
+  },
+  {
+    "directors": [
+      "布尔·斯蒂尔斯"
+    ],
+    "rate": "7.3",
+    "title": "重返十七岁",
+    "casts": [
+      "扎克·埃夫隆",
+      "莱斯利·曼恩",
+      "托马斯·列农",
+      "马修·派瑞",
+      "Tyler Steelman"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477810397.jpg"
+  },
+  {
+    "directors": [
+      "董越"
+    ],
+    "rate": "7.0",
+    "title": "暴雪将至",
+    "casts": [
+      "段奕宏",
+      "江一燕",
+      "杜源",
+      "郑伟",
+      "郑楚一"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505160594.jpg"
+  },
+  {
+    "directors": [
+      "理查德·柯蒂斯"
+    ],
+    "rate": "8.6",
+    "title": "海盗电台",
+    "casts": [
+      "比尔·奈伊",
+      "肯尼思·布拉纳",
+      "菲利普·塞默·霍夫曼",
+      "尼克·弗罗斯特",
+      "汤姆·斯图里奇"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p769608791.jpg"
+  },
+  {
+    "directors": [
+      "王家卫"
+    ],
+    "rate": "8.7",
+    "title": "东邪西毒：终极版",
+    "casts": [
+      "张国荣",
+      "林青霞",
+      "梁朝伟",
+      "张学友",
+      "张曼玉"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792502535.jpg"
+  },
+  {
+    "directors": [
+      "叶伟信"
+    ],
+    "rate": "7.3",
+    "title": "杀破狼",
+    "casts": [
+      "甄子丹",
+      "洪金宝",
+      "任达华",
+      "廖启智",
+      "吴京"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250158341.jpg"
+  },
+  {
+    "directors": [
+      "凯瑟琳·毕格罗"
+    ],
+    "rate": "7.7",
+    "title": "拆弹部队",
+    "casts": [
+      "杰瑞米·雷纳",
+      "安东尼·麦凯",
+      "布莱恩·格拉格提",
+      "克里斯托弗·沙耶",
+      "大卫·摩斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p770541118.jpg"
+  },
+  {
+    "directors": [
+      "梁乐民",
+      "陆剑青"
+    ],
+    "rate": "7.4",
+    "title": "寒战",
+    "casts": [
+      "郭富城",
+      "梁家辉",
+      "李治廷",
+      "彭于晏",
+      "杨采妮"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1741835010.jpg"
+  },
+  {
+    "directors": [
+      "非行"
+    ],
+    "rate": "7.6",
+    "title": "全民目击",
+    "casts": [
+      "孙红雷",
+      "余男",
+      "郭富城",
+      "邓家佳",
+      "赵立新"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2091289138.jpg"
+  },
+  {
+    "directors": [
+      "约翰·李·汉考克"
+    ],
+    "rate": "8.4",
+    "title": "弱点",
+    "casts": [
+      "桑德拉·布洛克",
+      "蒂姆·麦格罗",
+      "昆东·亚伦",
+      "杰·海德",
+      "莉莉·柯林斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181613001.jpg"
+  },
+  {
+    "directors": [
+      "陈嘉上",
+      "钱永强"
+    ],
+    "rate": "6.6",
+    "title": "画皮",
+    "casts": [
+      "甄子丹",
+      "周迅",
+      "陈坤",
+      "赵薇",
+      "孙俪"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462058001.jpg"
+  },
+  {
+    "directors": [
+      "理查德·林克莱特"
+    ],
+    "rate": "8.5",
+    "title": "少年时代",
+    "casts": [
+      "埃拉·科尔特兰",
+      "帕特丽夏·阿奎特",
+      "伊桑·霍克",
+      "罗蕾莱·林克莱特",
+      "史蒂芬·切斯特·普林斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187391526.jpg"
+  },
+  {
+    "directors": [
+      "张艾嘉"
+    ],
+    "rate": "8.4",
+    "title": "相爱相亲",
+    "casts": [
+      "张艾嘉",
+      "田壮壮",
+      "郎月婷",
+      "宋宁峰",
+      "吴彦姝"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502311890.jpg"
+  },
+  {
+    "directors": [
+      "郭敬明"
+    ],
+    "rate": "4.7",
+    "title": "小时代",
+    "casts": [
+      "杨幂",
+      "柯震东",
+      "郭采洁",
+      "郭碧婷",
+      "谢依霖"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004121607.jpg"
+  },
+  {
+    "directors": [
+      "陈可辛",
+      "赵良骏"
+    ],
+    "rate": "7.6",
+    "title": "如果·爱",
+    "casts": [
+      "周迅",
+      "金城武",
+      "张学友",
+      "池珍熙",
+      "曾志伟"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p461379838.jpg"
+  },
+  {
+    "directors": [
+      "安德鲁·尼科尔"
+    ],
+    "rate": "8.6",
+    "title": "战争之王",
+    "casts": [
+      "尼古拉斯·凯奇",
+      "布丽姬·穆娜",
+      "杰瑞德·莱托",
+      "伊安·霍姆",
+      "伊桑·霍克"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453719066.jpg"
+  },
+  {
+    "directors": [
+      "细田守"
+    ],
+    "rate": "8.6",
+    "title": "穿越时空的少女",
+    "casts": [
+      "仲里依纱",
+      "石田卓也",
+      "板仓光隆",
+      "原沙知绘",
+      "谷村美月"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg"
+  },
+  {
+    "directors": [
+      "迈克尔·格雷西"
+    ],
+    "rate": "7.7",
+    "title": "马戏之王",
+    "casts": [
+      "休·杰克曼",
+      "米歇尔·威廉姆斯",
+      "扎克·埃夫隆",
+      "赞达亚",
+      "丽贝卡·弗格森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511346392.jpg"
+  },
+  {
+    "directors": [
+      "什里·那拉扬·辛"
+    ],
+    "rate": "7.1",
+    "title": "厕所英雄",
+    "casts": [
+      "阿克谢·库玛尔",
+      "阿努潘·凯尔",
+      "布米·佩德卡尔",
+      "拉什·沙玛",
+      "萨钦·克德卡"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523632248.jpg"
+  },
+  {
+    "directors": [
+      "邓肯·琼斯"
+    ],
+    "rate": "8.5",
+    "title": "月球",
+    "casts": [
+      "山姆·洛克威尔",
+      "凯文·史派西",
+      "多米妮克·麦克艾丽戈特",
+      "卡雅·斯考达里奥",
+      "黄凯旋"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p449399746.jpg"
+  }
+]

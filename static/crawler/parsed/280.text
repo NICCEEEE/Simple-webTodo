@@ -1,0 +1,304 @@
+[
+  {
+    "directors": [
+      "王竞"
+    ],
+    "rate": "8.5",
+    "title": "万箭穿心",
+    "casts": [
+      "颜丙燕",
+      "陈刚",
+      "焦刚",
+      "李现",
+      "赵倩"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1759644668.jpg"
+  },
+  {
+    "directors": [
+      "亚利桑德罗·冈萨雷斯·伊纳里图"
+    ],
+    "rate": "7.9",
+    "title": "鸟人",
+    "casts": [
+      "迈克尔·基顿",
+      "爱德华·诺顿",
+      "艾玛·斯通",
+      "扎克·加利凡纳基斯",
+      "安德丽亚·瑞斯波罗格"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2203838902.jpg"
+  },
+  {
+    "directors": [
+      "丹尼斯·甘塞尔"
+    ],
+    "rate": "8.7",
+    "title": "浪潮",
+    "casts": [
+      "于尔根·福格尔",
+      "弗雷德里克·劳",
+      "马克思·雷迈特",
+      "詹妮弗·乌尔里希",
+      "克里斯蒂安娜·保罗"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg"
+  },
+  {
+    "directors": [
+      "马丁·斯科塞斯"
+    ],
+    "rate": "7.7",
+    "title": "华尔街之狼",
+    "casts": [
+      "莱昂纳多·迪卡普里奥",
+      "乔纳·希尔",
+      "玛格特·罗比",
+      "马修·麦康纳",
+      "凯尔·钱德勒"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2160254162.jpg"
+  },
+  {
+    "directors": [
+      "顾长卫"
+    ],
+    "rate": "7.3",
+    "title": "最爱",
+    "casts": [
+      "章子怡",
+      "郭富城",
+      "濮存昕",
+      "蒋雯丽",
+      "蔡国庆"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p907440218.jpg"
+  },
+  {
+    "directors": [
+      "史蒂文·斯皮尔伯格"
+    ],
+    "rate": "8.2",
+    "title": "华盛顿邮报",
+    "casts": [
+      "梅丽尔·斯特里普",
+      "汤姆·汉克斯",
+      "莎拉·保罗森",
+      "鲍勃·奥登科克",
+      "崔西·莱茨"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505577378.jpg"
+  },
+  {
+    "directors": [
+      "蒂姆·波顿",
+      "迈克·约翰逊"
+    ],
+    "rate": "8.2",
+    "title": "僵尸新娘",
+    "casts": [
+      "约翰尼·德普",
+      "海伦娜·伯翰·卡特",
+      "艾米丽·沃森",
+      "崔茜·尤玛",
+      "保罗·怀特豪斯"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p735361409.jpg"
+  },
+  {
+    "directors": [
+      "伍迪·艾伦"
+    ],
+    "rate": "8.2",
+    "title": "午夜巴黎",
+    "casts": [
+      "欧文·威尔逊",
+      "玛丽昂·歌迪亚",
+      "瑞秋·麦克亚当斯",
+      "汤姆·希德勒斯顿",
+      "凯西·贝茨"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p944234798.jpg"
+  },
+  {
+    "directors": [
+      "让-雅克·阿诺"
+    ],
+    "rate": "8.4",
+    "title": "兵临城下",
+    "casts": [
+      "裘德·洛",
+      "艾德·哈里斯",
+      "蕾切尔·薇兹",
+      "约瑟夫·费因斯",
+      "鲍勃·霍斯金斯"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1591033712.jpg"
+  },
+  {
+    "directors": [
+      "王家卫"
+    ],
+    "rate": "7.5",
+    "title": "2046",
+    "casts": [
+      "梁朝伟",
+      "章子怡",
+      "王菲",
+      "木村拓哉",
+      "巩俐"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910826560.jpg"
+  },
+  {
+    "directors": [
+      "卡迪亚·兰德",
+      "费尔南多·梅里尔斯"
+    ],
+    "rate": "8.9",
+    "title": "上帝之城",
+    "casts": [
+      "亚历桑德雷·罗德里格斯",
+      "莱安德鲁·菲尔米诺",
+      "菲利佩·哈根森",
+      "道格拉斯·席尔瓦",
+      "乔纳森·哈根森"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg"
+  },
+  {
+    "directors": [
+      "西奥多·梅尔菲"
+    ],
+    "rate": "8.6",
+    "title": "隐藏人物",
+    "casts": [
+      "塔拉吉·P·汉森",
+      "奥克塔维亚·斯宾瑟",
+      "加奈儿·梦奈",
+      "凯文·科斯特纳",
+      "克斯汀·邓斯特"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408791085.jpg"
+  },
+  {
+    "directors": [
+      "罗泓轸"
+    ],
+    "rate": "8.4",
+    "title": "黄海",
+    "casts": [
+      "河正宇",
+      "金允石",
+      "郑满植",
+      "李哲民 ",
+      "李艾"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075586949.jpg"
+  },
+  {
+    "directors": [
+      "保罗·托马斯·安德森"
+    ],
+    "rate": "7.5",
+    "title": "魅影缝匠",
+    "casts": [
+      "丹尼尔·戴-刘易斯",
+      "薇姬·克里普斯",
+      "莱丝利·曼维尔",
+      "卡米拉·拉瑟福德",
+      "吉娜·麦基"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506487968.jpg"
+  },
+  {
+    "directors": [
+      "亚历杭德罗·阿梅纳瓦尔"
+    ],
+    "rate": "8.0",
+    "title": "小岛惊魂",
+    "casts": [
+      "妮可·基德曼",
+      "菲奥纽拉·弗拉纳根",
+      "克里斯托弗·埃克莱斯顿",
+      "阿拉济纳·曼恩",
+      "詹姆斯·本特利"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492298664.jpg"
+  },
+  {
+    "directors": [
+      "大卫·芬奇"
+    ],
+    "rate": "8.0",
+    "title": "龙纹身的女孩",
+    "casts": [
+      "丹尼尔·克雷格",
+      "鲁妮·玛拉",
+      "克里斯托弗·普卢默",
+      "斯特兰·斯卡斯加德",
+      "史蒂文·伯克夫"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1473779689.jpg"
+  },
+  {
+    "directors": [
+      "史蒂夫·麦奎因"
+    ],
+    "rate": "7.9",
+    "title": "为奴十二年",
+    "casts": [
+      "切瓦特·埃加福特",
+      "迈克尔·法斯宾德",
+      "本尼迪克特·康伯巴奇",
+      "拜伦·巴特",
+      "保罗·达诺"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167964789.jpg"
+  },
+  {
+    "directors": [
+      "唐季礼"
+    ],
+    "rate": "6.4",
+    "title": "神话",
+    "casts": [
+      "成龙",
+      "金喜善",
+      "梁家辉",
+      "玛丽卡·沙拉瓦特",
+      "孙周"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p486725980.jpg"
+  },
+  {
+    "directors": [
+      "杜琪峰"
+    ],
+    "rate": "7.3",
+    "title": "毒战",
+    "casts": [
+      "孙红雷",
+      "古天乐",
+      "黄奕",
+      "钟汉良",
+      "高云翔"
+    ],
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1924498395.jpg"
+  },
+  {
+    "directors": [
+      "罗伯·马歇尔"
+    ],
+    "rate": "7.2",
+    "title": "艺伎回忆录",
+    "casts": [
+      "章子怡",
+      "渡边谦",
+      "杨紫琼",
+      "巩俐",
+      "周采芹"
+    ],
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453716919.jpg"
+  }
+]
