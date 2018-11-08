@@ -49,7 +49,7 @@ if __name__ == '__main__':
     config = dict(
         debug=True,
         host='0.0.0.0',
-        port=2000,
+        port=80,
     )
     app.config['SEND_FILE_MAX_AGE_DEFAULT'] = timedelta(seconds=1)
     app.run(**config)

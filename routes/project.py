@@ -22,3 +22,7 @@ def music_web():
     return render_template('music.html')
 
 
+@main.route('/editor')
+def editor_web():
+    return render_template('editor.html')
+

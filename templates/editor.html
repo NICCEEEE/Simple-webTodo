@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>MarkDown在线编辑器</title>
+  <link rel="stylesheet" href="/static/editor/css/bootstrap.css">
+  <link rel="stylesheet" href="/static/editor/css/main.css">
+</head>
+
+<body>
+  <div class="container">
+    <nav>
+      <div id="id-div-size"><span title="调整字体大小" class="glyphicon glyphicon-text-size"></span> <div><input class="fontsize" type='range' min='10' max='50' style="display: none"></div></div>
+      <div id="id-div-bold"><span title="字体加粗" class="glyphicon glyphicon-bold"></span></div>
+      <div id="id-div-italic"><span title="斜体显示" class="glyphicon glyphicon-italic"></span></div>
+      <div id="id-div-ol"><span title='创造有序列表' class="glyphicon glyphicon-sort-by-order"></span></div>
+      <div id="id-div-ul"><span title="创造无序列表" class="glyphicon glyphicon-list"></span></div>
+      <div id="id-div-title"><span title="添加标题" class="glyphicon glyphicon-header"></span></div>
+      <div id="id-div-line"><span title="添加分割线" class="glyphicon glyphicon-minus"></span></div>
+      <div id="id-div-theme"><span title="切换主题" class="glyphicon glyphicon-adjust"></span></div>
+    </nav>
+    <div class="leftbox">
+      <textarea class="editor" autofocus></textarea>
+    </div>
+    <div class="rightbox">
+
+    </div>
+  </div>
+  <script src="https://cdn.bootcss.com/showdown/1.8.7/showdown.js"></script>
+  <script src="/static/editor/js/jquery-3.3.1.min.js" charset="utf-8"></script>
+  <script src="/static/editor/js/bootstrap.js" charset="utf-8"></script>
+  <script src="/static/editor/js/main.js" charset="utf-8"></script>
+</body>
+
+</html>

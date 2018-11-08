@@ -1,0 +1,82 @@
+.container {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  padding: 0px;
+  background-color: rgb(249, 249, 245)
+}
+
+.container nav {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(68, 68, 68);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.container nav div {
+  display: inline-block;
+}
+
+.container nav div span {
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+  opacity: 0.5;
+  transform: translateY(15px);
+}
+
+.container nav div span:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.leftbox, .rightbox {
+  margin: 0px;
+  display: inline-block;
+  width: 49.5%;
+  height: 95%;
+  transform: translate(0px, 50px);
+  background-color: rgb(249, 249, 245);
+  overflow: auto;
+}
+
+.rightbox {
+  padding: 15px;
+}
+
+.leftbox+.rightbox {
+  border-left: 5px black dotted;
+}
+
+.editor {
+  padding: 15px;
+  border: none;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  scroll-behavior: smooth;
+  background-color: rgb(249, 249, 245);
+  outline: none;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.fontsize {
+  transform: translate(10px, 12px);
+}
+
+.dark {
+  background-color: rgb(60, 60, 60);
+  transition: 1s
+}
+
+.editor.dark, .rightbox.dark {
+  color: white;
+}
+
+.leftbox.dark+.rightbox.dark {
+  border-left: 5px white dotted
+}
