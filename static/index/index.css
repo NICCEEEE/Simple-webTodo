@@ -112,7 +112,7 @@ footer a:link, footer a:visited {
 /* 设置背景容器充满整个屏幕且为fixed方式放置 */
 section.page {
   margin: 0px;
-  height: 100%;
+  height: inherit;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
