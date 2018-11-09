@@ -152,7 +152,8 @@ var bindAllPlay = function() {
 
 // 点击上/下一首图片切换
 var changeImg = function(button, img) {
-  imgid = img.getAttribute('src').split('.')[0]
+  var path = img.getAttribute('src').split('.')[0]
+  var imgid = path[path.length - 1]
   if (button.classList.contains('next')) {
     nextid = (parseInt(imgid) + 1) % 4
     anotherid = (nextid + 1) % 4
@@ -160,15 +161,17 @@ var changeImg = function(button, img) {
     nextid = (parseInt(imgid) + 3) % 4
     anotherid = (nextid + 3) % 4
   }
-  img.setAttribute('src', nextid + '.jpg')
+  img.setAttribute('src', '/static/musicplayer/' + nextid + '.jpg')
   var another = document.querySelector('.another')
   var anotherimg = another.querySelector('img')
-  anotherimg.setAttribute('src', anotherid + '.jpg')
+  anotherimg.setAttribute('src', '/static/musicplayer/' + anotherid + '.jpg')
 }
 
 // 播放上/下一首
 var nextSong = function(img) {
-  currentid = img.getAttribute('src').split('.')[0]
+  var path = img.getAttribute('src').split('.')[0]
+  var currentid = path[path.length - 1]
+  console.log('currentid1:', currentid);
   var cells = document.querySelectorAll('.songcell')
   for (var i = 0; i < cells.length; i++) {
     if (cells[i].dataset.song === currentid) {
@@ -185,7 +188,7 @@ var bindNextButton = function() {
   var button = document.querySelector('.next')
   button.addEventListener('click', function() {
     var background = document.querySelector('.back')
-    var img = background.querySelector('img')
+    var img = document.querySelector('.back img')
     changeImg(button, img)
     nextSong(img)
   })
