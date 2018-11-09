@@ -33,7 +33,7 @@ app.register_blueprint(project_routes)
 
 @app.route('/')
 def index():
-    return '<a href="/todo">Hello World</a>'
+    return render_template('index.html')
 
 
 @app.route('/favicon.ico')
