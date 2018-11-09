@@ -30,3 +30,8 @@ def editor_web():
 @main.route('/crawler')
 def crawler():
     return render_template('crawler.html')
+
+
+@main.route('/resume')
+def resume():
+    return render_template('resume.html')

@@ -81,7 +81,7 @@ var move = function(top) {
   body.stop().animate({
       scrollTop: top
     },
-    700,
+    1000,
     'easeInOutExpo')
 }
 
