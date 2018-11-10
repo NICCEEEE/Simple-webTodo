@@ -77,7 +77,7 @@ var checkDirection = function(direction) {
 
 // 设置滚动动画
 var move = function(top) {
-  var body = $('html')
+  var body = $('html, body')
   body.stop().animate({
       scrollTop: top
     },
