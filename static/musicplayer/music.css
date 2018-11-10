@@ -1,8 +1,9 @@
 .main {
-  width: 1750px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
+  height: 100%;
 }
 
 header ul {
@@ -115,7 +116,7 @@ aside {
 }
 
 .current .back {
-  margin-left: 150px;
+  margin-left: 100px;
   margin-top: 80px;
   background-color: darkcyan;
   width: 380px;
@@ -180,8 +181,9 @@ aside {
   float: left;
   width: 580px;
   height: 800px;
-  margin-left: 200px;
+  margin-left: 160px;
   margin-top: 80px;
+  margin-right: -120px;
 }
 
 .singner {
