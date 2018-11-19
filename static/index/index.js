@@ -47,6 +47,7 @@ var bindScroll = function() {
         checkDirection(direction)
         before = after
       }
+      console.log(direction);
     }
   })(), 150))
 }
