@@ -5,10 +5,4 @@
 22:18:55 debug 1
 22:18:55 访问index <Request 'http://0.0.0.0:2000/todo/' [GET]>
 22:20:40 访问index <Request 'http://0.0.0.0:2000/todo/' [GET]>
-21:52:56 访问index <Request 'http://0.0.0.0/todo/' [GET]>
-21:53:21 debug 0
-21:53:21 访问index <Request 'http://0.0.0.0/todo/' [GET]>
-21:53:31 debug 1
-21:53:31 访问index <Request 'http://0.0.0.0/todo/' [GET]>
-21:53:47 debug 2
-21:53:47 访问index <Request 'http://0.0.0.0/todo/' [GET]>
+
