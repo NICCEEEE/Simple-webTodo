@@ -1,10 +1,42 @@
+// 函数节流
+var throllte = function(fn, delay) {
+  var prev = new Date()
+  return function() {
+    var current = new Date()
+    if (current - prev > delay) {
+      fn()
+      prev = current
+    }
+  }
+}
+
 // 绑定滚动事件
+// var bindScroll = function() {
+//   $(window).scroll(function() {
+//     var before = $(window).scrollTop()
+//     var d = $(window).scroll(throllte(function() {
+//       var after = $(window).scrollTop()
+//       // 判断滚动方向
+//       if (before < after) {
+//         var direction = 'down'
+//         checkDirection(direction)
+//         before = after
+//       }
+//       if (before > after) {
+//         var direction = 'up'
+//         checkDirection(direction)
+//         before = after
+//       }
+//       console.log(direction);
+//     }, 1000))
+//   })
+// }
+
 var bindScroll = function() {
-  $(window).scroll(function() {
+  $(window).scroll(throllte((function() {
     var before = $(window).scrollTop()
-    var d = $(window).scroll(function() {
+    return function() {
       var after = $(window).scrollTop()
-      // 判断滚动方向
       if (before < after) {
         var direction = 'down'
         checkDirection(direction)
@@ -15,10 +47,9 @@ var bindScroll = function() {
         checkDirection(direction)
         before = after
       }
-    })
-  })
+    }
+  })(), 150))
 }
-
 // 绑定向下滚动时小圆点的响应动作
 // down 1: 0 ~ 610  2:610~1482  3: 1482~2354   4: 2354~3226  5: 3226~ 3488
 var checkScrollDown = function(top) {
@@ -106,7 +137,7 @@ var bindLink = function() {
 }
 
 // 绑定介绍条动画
-var bindFooter = function(index){
+var bindFooter = function(index) {
   var footer = $('footer')
   var footers = footer.find('div')
   var current = footers.eq(index)
