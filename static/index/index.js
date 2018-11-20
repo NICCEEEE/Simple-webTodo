@@ -47,9 +47,8 @@ var bindScroll = function() {
         checkDirection(direction)
         before = after
       }
-      console.log(direction);
     }
-  })(), 150))
+  })(), 100))
 }
 // 绑定向下滚动时小圆点的响应动作
 // down 1: 0 ~ 610  2:610~1482  3: 1482~2354   4: 2354~3226  5: 3226~ 3488
